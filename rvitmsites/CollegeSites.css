@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: auto;
+    border: 1px solid black;
+    
+}
+header{
+    text-align: center;
+    background-image: url(https://www.iesonline.co.in/colleges-image/rv-institute-of-technology-and-management.jpg);
+    background-color: rgb(208, 235, 241);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid black 2px;
+    /* overflow-wrap: break-word; */
+    /* padding: 12px; */
+    /* width: 1200px; */
+    margin: 10px 10px;
+    
+}
+.background{
+    opacity: 0.8;
+}
+header u h1,header u h3,header u h4{
+    background-color: rgb(192, 218, 236);
+    margin: 0px 37%;    
+    
+    width: auto;
+}
+img{
+    border: solid black 3px;
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    /* overflow-wrap: normal; */
+}
+button:hover{
+    cursor: pointer;
+}
+section{
+    /* text-align: center; */
+    padding: 4px 5em;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: rgb(208, 235, 241);
+    
+}
+
+ul{
+    margin: 20px 0px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+div{
+    border: 1px solid black;
+    padding: 1px;
+    /* margin: 20px; */
+}
+
+div section div{
+    text-align: center;
+    padding: 200px;
+}
+
+u{
+    background-color: rgb(208, 235, 241);
+}
